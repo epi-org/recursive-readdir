@@ -1,12 +1,12 @@
 {
   "author": "Jamison Dance <jergason@gmail.com> (http://jamisondance.com/)",
-  "name": "recursive-readdir",
+  "name": "@epi/recursive-readdir",
   "description": "Get an array of all files in a directory and subdirectories.",
   "license": "MIT",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jergason/recursive-readdir.git"
+    "url": "git://github.com/epi-org/recursive-readdir.git"
   },
   "main": "./index.js",
   "scripts": {
